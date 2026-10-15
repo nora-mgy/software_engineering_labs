@@ -17,3 +17,18 @@ Topics covered:
 - object literals
 - loops
 - arrays
+
+## Week 2 - Arrays and JSON
+
+Topics covered:
+- map()
+- filter()
+- find()
+- reduce()
+- sort()
+- JSON.parse()
+- spread operator
+- flatMap()
+- nested objects and arrays
+- nested loops
+- combining array methods

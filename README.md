@@ -46,3 +46,22 @@ Topics covered:
 - Rendering object data
 - Nested `.map()` methods
 - Rendering nested surf forecast data
+
+## Week 4 - React Components, Props and Conditional Rendering
+
+In this lab I moved from CodePen to a local React project using Vite.
+
+Topics covered:
+- Creating React components
+- Reusing components
+- Passing data with props
+- Using `className`, `text` and `onClick` props
+- Creating multiple button variations
+- Conditional rendering with a boolean prop
+- Using a ternary operator for Login / Logout
+- Creating an image component with props
+- Styling components with CSS
+- Running a React app locally with Vite
+
+Folder:
+`week-4-react-props-lab`

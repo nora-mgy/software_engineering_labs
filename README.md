@@ -85,3 +85,20 @@ Topics covered:
 Folder:
 `week-5-react-state-lab`
 
+## Week 7 - React Routing and Chat Application
+
+In this lab I practised creating a multi-page React application using React Router.
+
+Topics covered:
+- Installing and configuring React Router
+- Using `BrowseRouter`
+- Creating routes with `Routes` and `Route`
+- Navigating between pages with `Link`
+- Creating separate Home and Chat pages
+- Building a chat interface with `useState()`
+- Updating and displaying a list of messages
+- Adding a navigation bar across the application
+- adding simple CSS styling to improve the layout
+
+Folder:
+`week-7-react-routing-chat`

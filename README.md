@@ -65,3 +65,23 @@ Topics covered:
 
 Folder:
 `week-4-react-props-lab`
+
+## Week 5 - React State with useState
+
+In this lab I practised using React state and updating the interface based on user actions.
+
+Topics covered:
+- Using `useState()` in React components
+- Updating state with button clicks
+- Creating multiple independent counters
+- Adding counter controls such as add, subtract, double, half and reset
+- Adding a counter limit
+- Creating a LightSwitch component with ON/OFF state
+- Passing state down to a child component using props
+- Creating a ButtonMaker component
+- Building a hotel search filter using arrays, `.map()`, `.filter()` and `useState()`
+- Combining multiple filters such as price, swimming pool and breakfast
+
+Folder:
+`week-5-react-state-lab`
+

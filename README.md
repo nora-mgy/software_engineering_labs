@@ -102,3 +102,25 @@ Topics covered:
 
 Folder:
 `week-7-react-routing-chat`
+
+## Week 8 - Express Album API
+
+In this lab I practised building a simple API using Express and JSON data.
+
+Topics covered:
+- Creating a Node.js project with npm
+- Installing and using Express and CORS
+- Loading JSON data from a file
+- Creating API routes with Express
+- Using URL parameters
+- Returning JSON responses
+- Returning a 404 error when an album is not found
+- Creating routes to return:
+  - all albums
+  - one album by ID
+  - an album's title and year
+  - albums by artist name
+- Testing API endpoints directly in the browser
+
+Folder:
+`week-8-express-album-api`
